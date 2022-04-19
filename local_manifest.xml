@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/10or/G" name="hi6250-oss/android_device_huawei_figo.git" remote="github" revision="lineage-18.1" />
+ <project path="device/10or/msm8953-common" name="hi6250-oss/android_device_huawei_hi6250-8-common.git" remote="github" revision="lineage-18.1" />
+ <project path="vendor/10or" name="hi6250-oss/android_vendor_huawei_figo.git" remote="github" revision="lineage-18.1" />
+ <project path="kernel/10or/G" name="hi6250-oss/android_kernel_huawei_hi6250-8.git" remote="github" revision="lineage-18.1" />
+ 
+</manifest>
